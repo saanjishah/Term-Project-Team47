@@ -1,4 +1,4 @@
-# Term-Project
+# Term-Project Team47
 The code for CS427 Android app. 
 <br/>
 <br/>
